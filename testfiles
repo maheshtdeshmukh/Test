@@ -1,0 +1,35 @@
+/****************************************************************    
+**   NAME                  : xxxxxxxxxxxxxxxxxxxxxxxxx   
+**    
+**   PVCS LOCATION         :    
+**    
+**   FUNCTION              : This procedure is used to select ppu details from custom table    
+**    
+**   PARAMETERS            :    
+**                   INPUT :  xxxxxxxxxxxxxxxxxxxxxxx   
+**                  OUTPUT :    
+**    
+**   RETURN CODES          : 0 on success    
+**    
+**   TABLES REFERENCED     :    
+**                FACETS   : fabncdv2custom.tpzt_ppu_record_details   
+**                               
+**                FACETSXC :    
+**                CUSTOM   :     
+**                STAGE    :     
+**    
+**   PROCEDURES REFERENCED :    
+**                  FACETS :    
+**                  CUSTOM :    
+**   STANDARD LOGGING PROCS:    
+**                           xxxxxxxxxxxxxxxxxxxxxxxxx   
+**                           xxxxxxxxxxxxxxxxxxx   
+**                           xxxxxxxxxxxxxxxxxxxxxxxxxx  
+**                           xxxxxxxxxxxxxxxxxxxxxxxxxxx    
+**    
+** REVISION HISTORY        :    
+** VERSION  DATE         DEVELOPER           DESCRIPTION    
+** -------- ----------   -----------------   --------------------    
+** 1.0      02/20/2014   Sanket Shah         Initial version   
+
+****************************************************************/    
